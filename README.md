@@ -19,23 +19,19 @@ This [GitHub page](https://hm-ai.github.io/Data_Structures_Algorithms/) contains
 | `Dec 2, 2024 -> Dec 6, 2024`   | Embedding-Based Algorithms: Global Vectors for Word Representation (GloVe) | Practical implementation involves creating embedding vectors on a given corpus.                                                 | [Glove](Slides/GloVe.pdf)                                  | [Programming_Session_1](https://colab.research.google.com/drive/1p5uRd4hJNaqInZh98hYuiknXI6Rc36-F?usp=sharing) | [Solution_Programming_Session_1](https://colab.research.google.com/drive/105sORnOHO8hPj0mj7fs2nFbkdYQjLtwk?usp=sharing) | 
 | `Dec 9, 2024 -> Dec 13, 2024`  | Bipartite Graphs: Stable Matching Problem - Gale-Shapley Algorithm         | Practical implementation focuses on studying the optimality of the Gale-Shapley algorithm in matching students to universities. | [Stable Matching](Slides/Stable_Matching_Gale_Shapley.pdf) | [Programming_Session_2](https://colab.research.google.com/drive/1WFpsSRqH6D7DPo1jHxUC5Ln5FKN-OL5a?usp=sharing) | [Solution_Programming_Session_2](https://colab.research.google.com/drive/1mqoB_7h2H1da2F_BKfu94hR0FSIWSRRn?usp=sharing) | 
 | `Dec 16, 2024 -> Dec 20, 2024` | Tree Based Models for Classification                                       | Practical implementation includes analyzing a credit risk dataset                                                               | [Tree_based_models](Slides/Tree_based_models.pdf)          |                                                                                                                |                                                                                                                         | 
-| `Dec 16, 2024 -> Dec 20, 2024` | Graph Neural Networks                                                      | Practical implementation involves generating graph embeddings on the Cora dataset                                               |                                                            |                                                                                                                |                                                                                                                         | 
+| `Dec 23, 2024 -> Dec 27, 2024` | Graph Neural Networks                                                      | Practical implementation involves generating graph embeddings on the Cora dataset                                               |                                                            |                                                                                                                |                                                                                                                         | 
+| `Dec 30, 2024 -> Jan 3, 2025`  | Review and Final Exam                                                      |                                                                                                                                 |                                                            |                                                                                                                |                                                                                                                         | 
 
 
-# Mock MCQs
-
-| **Date**     | **Topic**                                                     | Mock Exam                    | Solution                                     | 
-|--------------|---------------------------------------------------------------|------------------------------|----------------------------------------------| 
-| Dec 9, 2024  | Introduction to Embedding-Based Algorithms                    | [MCQ 1](Mock_mcqs/MCQ_1.pdf) | [MCQ_Answers 1](Mock_mcqs/MCQ_1_Answers.pdf) | 
-| Dec 17, 2024 | The Stable Marriage Problem and The Gale-Shapley algorithm    |                              |                                              | 
 
 
 # MCQs
 
-| **Date**     | **Topic**                                                     | Exam                    | Solution                                | 
-|--------------|---------------------------------------------------------------|-------------------------|-----------------------------------------| 
-| Dec 10, 2024 | Introduction to Embedding-Based Algorithms                    | [MCQ 1](mcqs/MCQ_1.pdf) | [MCQ_Answers 1](mcqs/MCQ_1_Answers.pdf) |          
-| Dec 17, 2024 | The Stable Marriage Problem and The Gale-Shapley algorithm    |                         |                                         | 
+| **Date**     | **Topic**                                                    | Exam                               | Solution                                       | 
+|--------------|--------------------------------------------------------------|------------------------------------|------------------------------------------------| 
+| Dec 9, 2024  | Introduction to Embedding-Based Algorithms   (Mock Exam)     | [Mock_MCQ 1](Mmcqs/Mock_MCQ_1.pdf) | [MCQ_Answers 1](mcqs/Mock_MCQ_1_Answers.pdf)   |
+| Dec 10, 2024 | Introduction to Embedding-Based Algorithms                   | [MCQ 1](mcqs/MCQ_1.pdf)            | [MCQ_Answers 1](mcqs/MCQ_1_Answers.pdf)        |          
+| Dec 17, 2024 | The Stable Marriage Problem and The Gale-Shapley algorithm   |                                    |                                                | 
 
 
 # Contact
