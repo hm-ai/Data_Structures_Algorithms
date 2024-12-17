@@ -34,7 +34,6 @@ This [GitHub page](https://hm-ai.github.io/Data_Structures_Algorithms/) contains
 | Dec 17, 2024 | Bipartite Graphs: Stable Matching Problem - Gale-Shapley Algorithm                     | [MCQ 2](mcqs/MCQ_2.pdf)            | [MCQ_Answers 2](mcqs/MCQ_2_Answers.pdf)      | 
 | Dec 24, 2024 | Tree Based Models for Classification                                                   |                                    |                                              | 
 | Dec 31, 2024 | Graph Neural Networks                                                                  |                                    |                                              | 
-| TBD          | Final Exam                                                                             |                                    |                                              | 
 
 
 
