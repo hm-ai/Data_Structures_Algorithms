@@ -27,11 +27,16 @@ This [GitHub page](https://hm-ai.github.io/Data_Structures_Algorithms/) contains
 
 # MCQs
 
-| **Date**     | **Topic**                                                    | Exam                               | Solution                                       | 
-|--------------|--------------------------------------------------------------|------------------------------------|------------------------------------------------| 
-| Dec 9, 2024  | Introduction to Embedding-Based Algorithms   (Mock Exam)     | [Mock_MCQ 1](Mmcqs/Mock_MCQ_1.pdf) | [MCQ_Answers 1](mcqs/Mock_MCQ_1_Answers.pdf)   |
-| Dec 10, 2024 | Introduction to Embedding-Based Algorithms                   | [MCQ 1](mcqs/MCQ_1.pdf)            | [MCQ_Answers 1](mcqs/MCQ_1_Answers.pdf)        |          
-| Dec 17, 2024 | The Stable Marriage Problem and The Gale-Shapley algorithm   |                                    |                                                | 
+| **Date**     | **Topic**                                                                              | Exam                               | Solution                                     | 
+|--------------|----------------------------------------------------------------------------------------|------------------------------------|----------------------------------------------| 
+| Dec 9, 2024  | Embedding-Based Algorithms: Global Vectors for Word Representation (GloVe) (Mock Exam) | [Mock_MCQ 1](Mmcqs/Mock_MCQ_1.pdf) | [MCQ_Answers 1](mcqs/Mock_MCQ_1_Answers.pdf) |
+| Dec 10, 2024 | Embedding-Based Algorithms: Global Vectors for Word Representation (GloVe)             | [MCQ 1](mcqs/MCQ_1.pdf)            | [MCQ_Answers 1](mcqs/MCQ_1_Answers.pdf)      |          
+| Dec 17, 2024 | Bipartite Graphs: Stable Matching Problem - Gale-Shapley Algorithm                     | [MCQ 2](mcqs/MCQ_2.pdf)            | [MCQ_Answers 2](mcqs/MCQ_2_Answers.pdf)      | 
+| Dec 24, 2024 | Tree Based Models for Classification                                                   |                                    |                                              | 
+| Dec 31, 2024 | Graph Neural Networks                                                                  |                                    |                                              | 
+| TBD          | Final Exam                                                                             |                                    |                                              | 
+
+
 
 
 # Contact
