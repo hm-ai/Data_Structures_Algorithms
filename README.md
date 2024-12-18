@@ -35,6 +35,12 @@ This [GitHub page](https://hm-ai.github.io/Data_Structures_Algorithms/) contains
 | Dec 24, 2024 | Tree Based Models for Classification                                                   |                                    |                                                   | 
 | Dec 31, 2024 | Graph Neural Networks                                                                  |                                    |                                                   | 
 
+# Final Exam
+
+
+| **Date**     | Exam | Solution | 
+|--------------|------|----------| 
+| Jan 3, 2025  |      |          |
 
 
 
