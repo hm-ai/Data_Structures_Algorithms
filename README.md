@@ -35,6 +35,14 @@ This [GitHub page](https://hm-ai.github.io/Data_Structures_Algorithms/) contains
 | Dec 24, 2024 | Tree Based Models for Classification                                                   | [MCQ 3](mcqs/MCQ_3.pdf)            | [MCQ_Answers 3](mcqs/MCQ_3_Answers.pdf)           | 
 | Jan 31, 2024 | Tree Based Models for Classification and Graph Neural Networks                         |                                    |                                                   | 
 
+
+# Mock Exam
+
+| Exam                                        | Solution                                                      | 
+|---------------------------------------------|---------------------------------------------------------------| 
+| [Mock Exam (Ex 1)](Mock_exam/Mock_Exam.pdf) | [Solution_Mock Exam (Ex 1)](Mock_exam/Solution_Mock_Exam.pdf) |
+
+
 # Final Exam
 
 
