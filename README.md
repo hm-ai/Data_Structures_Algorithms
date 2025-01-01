@@ -33,7 +33,7 @@ This [GitHub page](https://hm-ai.github.io/Data_Structures_Algorithms/) contains
 | Dec 10, 2024 | Embedding-Based Algorithms: Global Vectors for Word Representation (GloVe)             | [MCQ 1](mcqs/MCQ_1.pdf)            | [MCQ_Answers 1](mcqs/MCQ_1_Answers.pdf)           |          
 | Dec 17, 2024 | Bipartite Graphs: Stable Matching Problem - Gale-Shapley Algorithm                     | [MCQ 2](mcqs/MCQ_2.pdf)            | [MCQ_Answers 2](mcqs/MCQ_2_Answers.pdf)           | 
 | Dec 24, 2024 | Tree Based Models for Classification                                                   | [MCQ 3](mcqs/MCQ_3.pdf)            | [MCQ_Answers 3](mcqs/MCQ_3_Answers.pdf)           | 
-| Jan 31, 2024 | Graph Representation Learning                                                          |                                    |                                                   | 
+| Jan 31, 2024 | Graph Representation Learning                                                          | [MCQ 4](mcqs/MCQ_4.pdf)            | [MCQ_Answers 4](mcqs/MCQ_4_Answers.pdf)           | 
 
 
 # Mock Exam
