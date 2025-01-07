@@ -36,19 +36,13 @@ This [GitHub page](https://hm-ai.github.io/Data_Structures_Algorithms/) contains
 | Jan 31, 2024 | Graph Representation Learning                                                          | [MCQ 4](mcqs/MCQ_4.pdf)            | [MCQ_Answers 4](mcqs/MCQ_4_Answers.pdf)           | 
 
 
-# Mock Exam
-
-| Exam                                        | Solution                                                      | 
-|---------------------------------------------|---------------------------------------------------------------| 
-| [Mock Exam (Ex 1)](Mock_exam/Mock_Exam.pdf) | [Solution_Mock Exam (Ex 1)](Mock_exam/Solution_Mock_Exam.pdf) |
-
 
 # Final Exam
 
 
-| **Date**     | Exam | Solution | 
-|--------------|------|----------| 
-| Jan 3, 2025  |      |          |
+| **Date**     | Exam                                    | Solution                                                  | 
+|--------------|-----------------------------------------|-----------------------------------------------------------| 
+| Jan 3, 2025  | [Final Exam](Final_Exam/Final_Exam.pdf) | [Final Exam Solution](Final_Exam/Final_Exam_Solution.pdf) |
 
 
 
