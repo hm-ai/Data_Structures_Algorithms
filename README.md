@@ -40,9 +40,9 @@ This [GitHub page](https://hm-ai.github.io/Data_Structures_Algorithms/) contains
 # Final Exam
 
 
-| **Date**     | Exam                                    | Solution                                                  | 
-|--------------|-----------------------------------------|-----------------------------------------------------------| 
-| Jan 3, 2025  | [Final Exam](Final_Exam/Final_Exam.pdf) | [Final Exam Solution](Final_Exam/Final_Exam_Solution.pdf) |
+| **Date**     | Exam                                    | Solution                                                  | Final Results                            |
+|--------------|-----------------------------------------|-----------------------------------------------------------|------------------------------------------|
+| Jan 3, 2025  | [Final Exam](Final_Exam/Final_Exam.pdf) | [Final Exam Solution](Final_Exam/Final_Exam_Solution.pdf) | [Grades](Final_Exam/Final_Results.pdf)   |
 
 
 
